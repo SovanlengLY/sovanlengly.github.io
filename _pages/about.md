@@ -13,4 +13,4 @@ redirect_from:
 
 ## 🕵🏼‍♀️ Professional Experience
 
-Currently I am working as a research AI engineer intern at Technology, Innovation and Group Projects Division (DTIPG) of SNCF Group. I am working on a Computer Vision Project that invole many method such as Object Detection, Optical Charater Recognition (OCR) and Anomaly detection.
+I am currently working as a Research AI Engineer Intern in the Technology, Innovation, and Group Projects Division (DTIPG) of the SNCF Group. I am involved in a computer vision project that includes various methods such as object detection, optical character recognition (OCR), and anomaly detection.
