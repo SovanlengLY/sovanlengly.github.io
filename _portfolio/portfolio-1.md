@@ -1,6 +1,6 @@
 ---
 title: "Semantic Book Recommendation"
-excerpt: "An intelligent book recommendation tool that uses semantic similarity and natural language processing to help users discover books based on their interests or queries.<br/><img src='/images/project1.png'>"
+excerpt: "An intelligent book recommendation tool that uses semantic similarity and natural language processing to help users discover books based on their interests or queries.<br/><img src='/images/project1.png' width='300'>"
 collection: portfolio
 ---
 
